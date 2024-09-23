@@ -1,4 +1,4 @@
-package net.devex.one.application.port.secondary;
+package net.devex.one.application.applicationservice;
 
 import com.acb.nwf.application.dto.EmployeeDto;
 import com.acb.nwf.application.mapper.EmployeeMapper;
